@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PennyTrack UPI</string>
+    <string name="notification_listener_name">PennyTrack transaction detector</string>
+</resources>
